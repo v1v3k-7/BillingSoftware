@@ -1,0 +1,24 @@
+# NetBeans build artifacts
+/build/
+/BillingSoftware/
+/nbproject/
+/test/
+
+# NetBeans user-specific files
+/nbproject/private/
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+*.class
+
+
+
+build.xml
+manifest.mf
