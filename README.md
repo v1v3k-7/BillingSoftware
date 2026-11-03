@@ -123,7 +123,7 @@ con = DriverManager.getConnection("jdbc:mysql://localhost:3306/billing_software"
 ## 🚀 How to Run the Project
 
 ### Option A: Quick Run (Pre-built Release)
-1. Go to the [Releases](https://github.com/) section of this repository.
+1. Go to the [Releases](https://github.com/v1v3k-7/BillingSoftware/releases) section of this repository.
 2. Download the latest `BillingSoftware-v1.0.zip` file.
 3. Extract the ZIP file onto your computer.
 4. Ensure you have **Java (JRE/JDK 8+)** installed and your **MySQL database** configured as described above.
